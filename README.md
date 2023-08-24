@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/Khairuddin--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Khairuddin-green)](https://www.akash)
+[![Linkedin Badge](https://img.shields.io/badge/-Khairuddin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Khairuddin--01629954/)](https://www.linkedin.com/in/Khairuddin--01629954/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Khairuddin-green)](https://www.Khairuddin)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Khairuddin-yellow)](https://stackoverflow.com/users/3687251/Khairuddin-)
 
 I'm
@@ -142,7 +142,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=aakashdeveloper&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Khairuddin&theme=react-dark&hide_border=true&area=true)
 
 <details open="">
 <summary>
@@ -152,8 +152,8 @@ Languages and Tools:
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashdeveloper&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeveloper&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khairuddin&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairuddin&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
